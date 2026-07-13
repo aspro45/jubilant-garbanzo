@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+qa-*.jpg
+qa-*.png
+design-qa.md

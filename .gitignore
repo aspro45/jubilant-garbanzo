@@ -6,3 +6,5 @@ dist/
 qa-*.jpg
 qa-*.png
 design-qa.md
+
+.vercel
